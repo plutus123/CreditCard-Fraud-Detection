@@ -1,6 +1,6 @@
 # CreditCard-Fraud-Detection
 
-kaggle notebook link -> https://www.kaggle.com/code/vishwasmishra1234/notebooke38e3c8c71
+kaggle notebook link -> https://www.kaggle.com/code/vishwasmishra1234/frauddetection-99-9-accuracy
 
 # Overview
 
